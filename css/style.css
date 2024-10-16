@@ -50,13 +50,13 @@ main {
 }
 
 .card__content {
-  width: 50%;
+  width: 55%;
   padding: 7rem 10rem 7rem 7rem;
 }
 
 .card__content h1 {
   color: var(--White);
-  font-size: 3.6rem;
+  font-size: 3.8rem;
   margin-bottom: 3rem;
 }
 
@@ -69,6 +69,7 @@ main {
   font-size: 1.5rem;
   margin-bottom: 8rem;
   line-height: 1.7;
+  padding-inline-end: 3rem;
 }
 
 .card__content .stats {
@@ -79,7 +80,7 @@ main {
 
 .card__content .stats h2 {
   color: var(--White);
-  font-size: 2.2rem;
+  font-size: 2.4rem;
   margin-bottom: 0.5rem;
 }
 
@@ -89,7 +90,7 @@ main {
   letter-spacing: 2px;
   font-weight: 400;
   color: var(--Slightly-transparent-white2);
-  font-size: 1rem;
+  font-size: 1.2rem;
 }
 
 .card__image {
@@ -105,7 +106,7 @@ main {
   width: 100%;
   height: 100%;
   z-index: 100;
-  background-color: var(--Soft-violet);
+  background-color: rgb(161, 52, 229);
   opacity: 0.6;
 }
 
